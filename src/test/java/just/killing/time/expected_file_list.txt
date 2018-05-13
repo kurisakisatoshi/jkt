@@ -1,0 +1,7 @@
+
+/aaa.txt
+/bbb.txt
+/ccc.png
+/ddd
+/ddd/xxx.png
+/ddd/yyyy.txt
